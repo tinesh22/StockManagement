@@ -1,0 +1,26 @@
+D:\project\stock\stock\bin\Debug\stock.exe.config
+D:\project\stock\stock\obj\Debug\stock.csprojResolveAssemblyReference.cache
+D:\project\stock\stock\obj\Debug\stock.Properties.Resources.resources
+D:\project\stock\stock\obj\Debug\stock.StockMain.resources
+D:\project\stock\stock\obj\Debug\stock.csproj.GenerateResource.Cache
+D:\project\stock\stock\bin\Debug\Database1.mdf
+D:\project\stock\stock\bin\Debug\Database1_log.ldf
+D:\project\stock\stock\bin\Debug\stock.exe
+D:\project\stock\stock\bin\Debug\stock.pdb
+D:\project\stock\stock\obj\Debug\stock.exe
+D:\project\stock\stock\obj\Debug\stock.pdb
+D:\project\stock\stock\obj\Debug\stock.Login.resources
+D:\project\stock\stock\obj\Debug\stock.Products.resources
+D:\ok mudule\add data\project\stock\stock\bin\Debug\stock.exe.config
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.exe
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.pdb
+D:\ok mudule\add data\project\stock\stock\bin\Debug\Database1.mdf
+D:\ok mudule\add data\project\stock\stock\bin\Debug\Database1_log.ldf
+D:\ok mudule\add data\project\stock\stock\bin\Debug\stock.exe
+D:\ok mudule\add data\project\stock\stock\bin\Debug\stock.pdb
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.csprojResolveAssemblyReference.cache
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.Login.resources
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.Products.resources
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.Properties.Resources.resources
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.StockMain.resources
+D:\ok mudule\add data\project\stock\stock\obj\Debug\stock.csproj.GenerateResource.Cache
